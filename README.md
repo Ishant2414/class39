@@ -1,2 +1,1 @@
-# class39
-infiniteRunner
+# InfiniteRunningGame
